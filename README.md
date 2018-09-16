@@ -1,3 +1,3 @@
-# Polynomial Regression
+# Multi-Variate Regression
 
-Primer on polynomial regression in Python
+Super simple introduction to multi-variate regression in Python
